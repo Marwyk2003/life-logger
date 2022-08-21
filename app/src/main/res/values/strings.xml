@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LifeLogger</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hint_name">name</string>
+    <string name="hint_date">yyyy-mm-dd</string>
+    <string name="hint_description">description</string>
+    <string name="new_event">New event</string>
+    <string name="save">save</string>
+</resources>
